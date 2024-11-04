@@ -1,5 +1,7 @@
 # Data Dictionary
 
+S&P 500 data from [Nasdaq](https://www.nasdaq.com/market-activity/index/spx/historical?page=1&rows_per_page=10&timeline=y10) AND
+S&P 500 data from [S&P 500](https://en.wikipedia.org/wiki/S%26P_500).
 
 ## Calendar
 
