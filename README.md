@@ -15,6 +15,18 @@ Steps:
    6. Analyze the data and answer the question.
    7. Visualize the analysis.
 
+## Programming Languages
+
+   Python Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+
+   Development Environment: Jupyter Notebook
+
+   Data Visualization Tools: Matplotlib, Seaborn
+
+   Machine Learning: Scikit-learn
+
+   Version Control: Git Bash, Git/GitHub
+
 ## Getting Started
 
    1. Clone this repo.
