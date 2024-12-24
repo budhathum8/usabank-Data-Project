@@ -1,0 +1,13 @@
+
+# Data
+
+I am going to get the stock information for 6 larger banks during this time:
+
+    Bank of America
+    CitiGroup
+    Goldman Sachs
+    JPMorgan Chase
+    Morgan Stanley
+    Wells Fargo
+
+from Yahoo Finance web data from [yfinance](https://finance.yahoo.com/markets).
